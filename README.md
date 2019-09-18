@@ -11,6 +11,7 @@ FrontEnd-разработчик / [Telegram](https://t.me/Yunehs) / [VK](https:/
 * Pug, Less;
 * JavaScript;
 * Adobe Photoshop;
+* Gulp.JS
 
 ## Портфолио
 
