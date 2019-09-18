@@ -2,7 +2,7 @@
 
 FrontEnd-разработчик / [Telegram](https://t.me/Yunehs) / [VK](https://vk.com/yunehskozylov) / [Instagram](https://www.instagram.com/y.kozylov) / [Facebook](https://www.facebook.com/yunehs.kozylov) / [Twitter](https://twitter.com/YunehsKozylov).
 
-Делаю лендинги и продающие сайты на заказ (от 2000 руб.)
+Делаю лендинги и продающие сайты на заказ.
 
 ## Навыки
 
