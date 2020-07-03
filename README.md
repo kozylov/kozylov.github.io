@@ -1,6 +1,6 @@
 # Юнес Козылов
 
-FrontEnd-разработчик / [Telegram](https://t.me/Yunehs) / [VK](https://vk.com/yunehskozylov) / [Instagram](https://www.instagram.com/y.kozylov) / [Facebook](https://www.facebook.com/yunehs.kozylov) / [Twitter](https://twitter.com/YunehsKozylov).
+FrontEnd-разработчик / [Telegram](https://t.me/Yunehs) / [VK](https://vk.com/yunehskozylov) / [Instagram](https://www.instagram.com/yunehskozylov) / [Facebook](https://www.facebook.com/yunehs.kozylov) / [Twitter](https://twitter.com/YunehsKozylov).
 
 Делаю лендинги и продающие сайты на заказ.
 
