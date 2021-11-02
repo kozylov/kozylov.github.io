@@ -8,8 +8,8 @@ FrontEnd-разработчик / [Telegram](https://t.me/Yunehs) / [VK](https:/
 
 * HTML5;
 * CSS 3 (Flexbox, Grid, Адаптивная вёрстка);
-* Pug, Sass(SCSS);
-* JavaScript (jQuery, React.js;
+* Pug, Sass (SCSS);
+* JavaScript (jQuery, React);
 * Adobe Photoshop, Adobe XD, Figma, Avocode, Sketch;
 * Gulp.js
 
